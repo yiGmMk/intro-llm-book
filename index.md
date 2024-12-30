@@ -5775,10 +5775,12 @@ Contract Understanding Atticus Dataset(CUAD)[245] 是用于合同审查的数据
 $$\frac{\rm TP+TN}{\rm TP+FN+FP+TN}\tag{8.1}$$
 
 - 精确率(Precision,P):表示分类预测是正例的结果中,确实是正例的比例。精确率也称查 准率、精确度,具体计算公式如下:
-
-Precision = $\frac{\text{TP}}{\text{TP}+\text{FP}}$ (8.2)
-
 {% raw %}
+
+$$
+\text{Precision} = \frac{\text{TP}}{\text{TP} + \text{FP}} \tag{8.2}
+$$
+
 - 召回率(Recall,R):表示所有正例的样本中,被正确找出的比例。召回率也称查全率,具 体计算公式如下:
 
 $$\begin{array}{c}\mbox{Recall}=\frac{\mbox{TP}}{\mbox{TP}+\mbox{FN}}\end{array}\tag{8.3}$$
