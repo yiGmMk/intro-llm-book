@@ -1,0 +1,19 @@
+title: LLM 从理论到实践
+description:
+google_analytics: G-4ZMS4MK5S7
+theme: minima
+#remote_theme: pages-themes/architect@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-assets
+  - jekyll-paginate
+exclude:
+  - scripts/
+  - requirements.txt
+  - CNAME
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
