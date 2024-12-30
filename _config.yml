@@ -10,6 +10,7 @@ plugins:
   - jekyll-archives
   - jekyll-assets
   - jekyll-paginate
+  - jekyll-toc
 exclude:
   - scripts/
   - requirements.txt
