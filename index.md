@@ -1,6 +1,6 @@
 # 大规模语言模型：从理论到实践
 
-使用工具将<大规模语言模型：从理论到实践>转换成markdown,方便在线预览
+使用工具将<大规模语言模型：从理论到实践>转换成[markdown](https://github.com/yiGmMk/intro-llm-book),方便在线预览
 
 ## 感谢
 
