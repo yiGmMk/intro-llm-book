@@ -5776,9 +5776,7 @@ $$\frac{\rm TP+TN}{\rm TP+FN+FP+TN}\tag{8.1}$$
 
 - 精确率(Precision,P):表示分类预测是正例的结果中,确实是正例的比例。精确率也称查 准率、精确度,具体计算公式如下:
 
-{% raw %}
 Precision = $\frac{\text{TP}}{\text{TP}+\text{FP}}$ (8.2)
-{% endraw %}
 
 {% raw %}
 - 召回率(Recall,R):表示所有正例的样本中,被正确找出的比例。召回率也称查全率,具 体计算公式如下:
