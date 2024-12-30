@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2024-12-30
+---
+
 # 大规模语言模型：从理论到实践
 
 ![](_page_0_Picture_2.jpeg)
