@@ -68,3 +68,24 @@ assets:
   plugins:
     css: { autoprefixer: {} }
     img: { optim: {} }
+
+minima:
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: auto
+
+  # Minima date format.
+  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  #date_format: "%b-%d-%Y"
+
+  # Generate social links in footer.
+  social_links:
+    - { platform: AI导航, user_url: "https://nav.programnotes.cn" }
+    - { platform: gpt, user_url: "https://gpt.programnotes.cn" }
