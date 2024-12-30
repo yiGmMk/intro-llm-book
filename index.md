@@ -11,8 +11,6 @@
 
 ![示意图](https://yigmmk.github.io/intro-llm-book/assets/images/page_0_Picture_2.jpeg)
 
-{% toc %}
-
 ## 张奇 桂韬 郑锐 ⻩萱菁 著
 
 · 2024 年 10 月 7 日
