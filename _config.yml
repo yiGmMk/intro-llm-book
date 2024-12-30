@@ -17,3 +17,8 @@ exclude:
   - .gitignore
   - Gemfile
   - Gemfile.lock
+
+kramdown:
+  math_engine: mathjax
+  mathjax:
+    input: TeX
