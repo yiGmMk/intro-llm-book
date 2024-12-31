@@ -4,7 +4,10 @@
 
 ## 在线查看
 
-[https://yigmmk.github.io/intro-llm-book/](https://yigmmk.github.io/intro-llm-book/)
+- [github pages版本](https://yigmmk.github.io/intro-llm-book/)
+- [飞书](https://rq2uwmrn0w.feishu.cn/docx/D00sdCbmFoqsTcxQUn8c9Jl3nAf?from=from_copylink)
+- [gitbook](https://free-gpt-1.gitbook.io/llm-cong-li-lun-dao-shi-jian/da-gui-mo-yu-yan-mo-xing-cong-li-lun-dao-shi-jian-1)
+- [大规模语言模型：从理论到实践,pdf版本](https://yigmmk.github.io/intro-llm-book/LLM-TAP.pdf)
 
 ## 💖💖💖
 
