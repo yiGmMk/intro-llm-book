@@ -6,7 +6,7 @@
 
 [https://yigmmk.github.io/intro-llm-book/](https://yigmmk.github.io/intro-llm-book/)
 
-## 感谢
+## 💖💖💖
 
 - [VikParuchuri/marker,pdf转markdown工具](https://github.com/VikParuchuri/marker)
 - [大规模语言模型：从理论到实践](https://github.com/intro-llm/intro-llm.github.io)
